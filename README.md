@@ -10,7 +10,7 @@
 ## 🛡️ Cybersecurity & IT Projects
 
 - **Kali Linux Home Lab (VMware)**  
-  [🔗 Setup Guide](https://github.com/YOUR-GITHUB/kali-linux-home-lab) — Step-by-step for creating a personal pentesting environment.
+  [🔗 Setup Guide](https://github.com/winneremmanuel/KaliLinuxVMwareHomeLab/tree/main) — Step-by-step for creating a personal pentesting environment.
 
 ---
 
