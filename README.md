@@ -17,7 +17,7 @@
 ## 📜 Certifications
 
 - 🛡 TRYHACKME Jnr Penetration Tester — `2022`
-- 🌐 Google Cybersecurity — `2025``
+- 🌐 Google Cybersecurity — `2025`
 
 ---
 
